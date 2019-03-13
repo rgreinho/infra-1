@@ -1,0 +1,28 @@
+ivariable "issue_labels" {
+  default = {
+    "kind/bug"                 = "b60205"
+    "kind/design"              = "8000ff"
+    "kind/docs"                = "4000ff"
+    "kind/duplicate"           = "cccccc"
+    "kind/enhancement"         = "E7D3BE"
+    "kind/question"            = "EFF1D5"
+    "size/XS"                  = "00FF00"
+    "size/S"                   = "CCFF66"
+    "size/M"                   = "FFFF00"
+    "size/L"                   = "ff9933"
+    "size/XL"                  = "b60205"
+    "size/XXL"                 = "8B0000"
+    "exp/beginner"             = "CBE4CE"
+    "exp/intermediate"         = "CBE4CE"
+    "exp/expert"               = "CBE4CE"
+    "status/claimed"           = "fbca04"
+    "status/help wanted"       = "128A0C"
+    "status/invalid"           = "000000"
+    "status/more-info-needed"  = "6A9798"
+    "status/requires changes"  = "33cccc"
+    "status/review carefully!" = "b60205"
+    "status/wontfix"           = "000000"
+    "environment/dev"          = "F7FBFF"
+    "environment/prod"         = "F7FBFF"
+  }
+}
